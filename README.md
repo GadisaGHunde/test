@@ -1,2 +1,2 @@
-# test
+# interns-book
 to practice my first github
